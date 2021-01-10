@@ -1,4 +1,4 @@
-# Perceptron in Python
+# Perceptron on Python
 
 #### Pendahuluan
 >Dalam *repository* ini, kita akan mempelajari Perceptron dan  menuliskan programnya dalam bahasa Python. Kami sangat menyarankan pengetahuan akan aljabar linier dan kalkulus yang cukup (menengah, yo sitik sitik iso turneh mudeng). Selain prasyarat pada kemampuan matematis, diharapkan juga kemampuan pemahamaan operasi vektor dan matriks pada python juga disarankan.
